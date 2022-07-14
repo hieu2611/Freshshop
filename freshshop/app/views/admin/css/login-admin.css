@@ -1,0 +1,7 @@
+ .bg-login-image {
+    background: url(https://th.bing.com/th/id/OIP.bzZjQJq329btFd74fTLnjAHaHa?pid=ImgDet&w=512&h=512&rs=1) !important;
+    background-position: center;
+    background-size: cover;
+    image-rendering: pixelated;
+    background-repeat: no-repeat;
+}
